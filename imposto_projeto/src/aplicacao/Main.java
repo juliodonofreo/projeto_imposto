@@ -54,5 +54,7 @@ public class Main {
 
         System.out.println();
         System.out.print("Total de impostos: " + totalImpostos);
+        
+        sc.close();
     }
 }
